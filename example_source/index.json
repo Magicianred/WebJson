@@ -1,0 +1,8 @@
+{
+    "template": "home_with_carousel",
+    "title": "Example Site",
+    "carousel_image1": "[{relative_path}]images/first-slide.png",
+    "carousel_image2": "[{relative_path}]images/second-slide.png",
+    "carousel_image3": "[{relative_path}]images/third-slide.png",
+    "content": "Information to be displayed under the <strong>carousel</strong> goes here."
+}
